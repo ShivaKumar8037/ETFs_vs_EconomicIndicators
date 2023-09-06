@@ -19,7 +19,7 @@
 The primary goal of this project is to delve deep into the relationship between macroeconomic indicators and the volatility of the health and energy sectors. By understanding these relationships, investors can make more informed decisions, diversifying their portfolios based on macroeconomic factors that historically impact these industries.
 
 We focus on industry-specific ETFs, representing a group of companies from the same sector. Various models are employed to compute the volatility response variable, providing a comprehensive view of the industry's behavior in response to macroeconomic changes.
-#### Click on the Image to watch my video presentation
+#### Click on the Image to watch my video presentation 👆🏻
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lAlvO66XvzE/0.jpg)](https://www.youtube.com/watch?v=lAlvO66XvzE)
 ### How the Project is Built:
 
