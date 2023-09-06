@@ -24,7 +24,7 @@ We focus on industry-specific ETFs, representing a group of companies from the s
 ### How the Project is Built:
 
 #### Web Application Architecture:
-
+![Alt text for your image](./readmeImages/webarch.png)
 Our project encompasses:
 
 1. **Data Storage**: Using MongoDB, we store data that's been sourced from Stooq.
