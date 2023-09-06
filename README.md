@@ -8,6 +8,7 @@
 ## Section 1: Quick Links
 
 - **Web App**: [Dashboard](https://dashboard-1.onrender.com/) (https://dashboard-1.onrender.com/)
+  > :warning: **Note: Website takes a while to load.**
   - **Credentials**:
     - Username: `hello`
     - Password: `world`
