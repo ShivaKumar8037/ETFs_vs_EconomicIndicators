@@ -37,10 +37,16 @@ Our project encompasses:
 
 [Python-url]: https://www.python.org/
 [Mongdb-url]: https://www.mongodb.com/
-[Plotly-url]:https://plotly.com/dash/
+[Plotly-url]: https://plotly.com/dash/
+
+<div align="center">
+
 [![Python](./readmeImages/python.png)][Python-url]
 [![MongoDB](./readmeImages/mongo.png)][Mongdb-url]
 [![Plotly](./readmeImages/dash.png)][Plotly-url]
+
+</div>
+
 
 ### Dataset:
 
