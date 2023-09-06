@@ -35,6 +35,13 @@ Our project encompasses:
 4. **Hosting**: Our application is hosted on Render, a reliable and free hosting platform.
 5. **Interactivity**: Dash callback functions ensure a dynamic user experience.
 
+[Python-url]: https://www.python.org/
+[Mongdb-url]: https://www.mongodb.com/
+[Plotly-url]:https://plotly.com/dash/
+[![Python](./readmeImages/python.png)][Python-url]
+[![MongoDB](./readmeImages/mongo.png)][Mongdb-url]
+[![Plotly](./readmeImages/dash.png)][Plotly-url]
+
 ### Dataset:
 
 Our dataset, sourced from Stooq, includes macroeconomic indicators like inflation, unemployment, and GDP. It also contains stock price data for companies in the health and energy sectors, specifically Vanguard. This dataset was chosen for its relevance and quality, ensuring our analyses are based on accurate and comprehensive information.
