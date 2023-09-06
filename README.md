@@ -66,8 +66,16 @@ Our dataset, sourced from Stooq, includes macroeconomic indicators like inflatio
 - **Color Scheme**: Palette with color `#f9ded7`.
 - **Tab Displays**: 
   - **Monitoring Tab**: Macro-Indicator Graph and ETFs graph with interactive dropdown lists.
-  - **Prediction Tab**: Graphs of predictions using various models.
+    
+    ![Alt text for your image](./readmeImages/monitor.png)
 
+    ![Alt text for your image](./readmeImages/second.png)
+    
+    
+  - **Prediction Tab**: Graphs of predictions using various models.
+  - 
+    ![Alt text for your image](./readmeImages/prediction.png)
+    
 
 
 ---
